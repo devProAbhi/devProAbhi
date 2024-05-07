@@ -4,4 +4,5 @@
 - 👀 I’m interested in Data science and Software development
 - 🌱 I’m currently learning deeplearning, datastructure and web development
 - 💞️ You can ask me anything about ML and DL
-- 📫 You can reach me through instagram id - https://instagram.com/abhishekchoudhary_05.09?igshid=YmMyMTA2M2Y=, linkedin id - https://www.linkedin.com/in/abhishek-choudhary-563550208 and facebook id - https://www.facebook.com/abhishekchoudhary9521
+- 📫 You can reach me through linkedin id - https://www.linkedin.com/in/abhishek-c-620818280
+- mail id - abhishekgodara8247@gmail.com
